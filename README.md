@@ -9,3 +9,5 @@ and
 which is part of
 [.NET Multi-platform App UI documentation](https://docs.microsoft.com/en-us/dotnet/maui/)
 This last link has comprehensive documentation on .NET MAUI.
+
+Updated default app to show current date and time when button is clicked.  

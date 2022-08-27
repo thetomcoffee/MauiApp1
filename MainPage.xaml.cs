@@ -11,18 +11,21 @@ public partial class MainPage : ContentPage
 
 	private void OnCounterClicked(object sender, EventArgs e)
 	{
-		count++;
+		//Previous code
+		//count++;
 
-		if (count == 1)
-			CounterBtn.Text = $"Clicked {count} time";
-		else
-			CounterBtn.Text = $"Clicked {count} times";
+		//if (count == 1)
+		//	CounterBtn.Text = $"Clicked {count} time";
+		//else
+		//	CounterBtn.Text = $"Clicked {count} times";
 
-		DateTime current = DateTime.Now;
+		//DateTime current = DateTime.Now;
 
-		DateTimeLabel.Text = current.ToLongDateString() + "\r\n" + current.ToLongTimeString();
+		//DateTimeLabel.Text = current.ToLongDateString() + "\r\n" + current.ToLongTimeString();
 
-        SemanticScreenReader.Announce(CounterBtn.Text);
+  //      SemanticScreenReader.Announce(CounterBtn.Text);
+
+
 	}
 }
 

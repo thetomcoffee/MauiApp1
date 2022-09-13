@@ -13,7 +13,8 @@ namespace MauiApp1.ViewModel
         {
             Items = new ObservableCollection<string>();
         }
-        a
+
+        [ObservableProperty]
         ObservableCollection<string> items;
 
         [ObservableProperty]

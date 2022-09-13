@@ -2,7 +2,12 @@
 
 public partial class MainPage : ContentPage
 {
-	string text;
+	public MainPage()
+	{
+		InitializeComponent();
+	}
+
+
 
 }
 

@@ -1,14 +1,13 @@
 ﻿
 
+using CommunityToolkit.Mvvm.ComponentModel;
 using System.ComponentModel;
 
 namespace MauiApp1.ViewModel
 {
-    public class MainViewModel : INotifyPropertyChanged
+    public partial class MainViewModel : ObservableObject 
     {
-        public event PropertyChangedEventHandler PropertyChanged;
-
-        void OnPropertyChanged(string name) => 
-            PropertyChanged?.Invoke(this, new PropertyChangedEventArgs(name));
+        [ObservableProperty]
+        string text;
     }
 }

@@ -18,3 +18,6 @@ Per this tutorial:
 [Build .NET MAUI UI with XAML [4 of 8] | .NET MAUI for Beginners](https://docs.microsoft.com/en-us/shows/dotnet-maui-for-beginners/build-dotnet-maui-ui-with-xaml-4-of-8-dotnet-maui-for-beginners) 
 Updating this app to be a To Do Tasks app. 
 
+Per
+[.NET MAUI Data Binding with MVVM & XAML [5 of 8] | .NET MAUI for Beginners](https://docs.microsoft.com/en-us/shows/dotnet-maui-for-beginners/dotnet-maui-data-binding-with-mvvm-xaml-5-of-8-dotnet-maui-for-beginners)
+Setting up MVVM.  Added ViewModel folder, and MainViewModel.cs.  For convenience, MainPage.xaml matches associated view model MainViewModelcs.  

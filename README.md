@@ -21,3 +21,4 @@ Updating this app to be a To Do Tasks app.
 Per
 [.NET MAUI Data Binding with MVVM & XAML [5 of 8] | .NET MAUI for Beginners](https://docs.microsoft.com/en-us/shows/dotnet-maui-for-beginners/dotnet-maui-data-binding-with-mvvm-xaml-5-of-8-dotnet-maui-for-beginners)
 Setting up MVVM.  Added ViewModel folder, and MainViewModel.cs.  For convenience, MainPage.xaml matches associated view model MainViewModelcs.  
+Finished setting up data binding, MVVM, Add and Delete function for To Do app. 

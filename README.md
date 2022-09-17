@@ -29,3 +29,10 @@ Continuing with 6 of 8:
 [Navigating Between Pages in .NET MAUI [6 of 8] | .NET MAUI for Beginners](https://docs.microsoft.com/en-us/shows/dotnet-maui-for-beginners/navigating-between-pages-in-dotnet-maui-6-of-8-dotnet-maui-for-beginners)
 Demonstrating navigation and data passing between pages/screens.  
 Starting with URL shell-based navigation. 
+In our Details page, we can pass info (e.g. string of task) to our Details page/screen using a query property (similar to a URL) which can string strings and complex data types, 
+Dictionary of string, objects. 
+Finished added Details page, passing text of task, and display, in Details page. 
+Also added back button to Details Page, to go back to Main Page. 
+
+7 of 8:
+[Accessing Platform Features in .NET MAUI [7 of 8] | .NET MAUI for Beginners](https://learn.microsoft.com/en-us/shows/dotnet-maui-for-beginners/accessing-platform-features-in-dotnet-maui-7-of-8-dotnet-maui-for-beginners)

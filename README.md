@@ -36,3 +36,8 @@ Also added back button to Details Page, to go back to Main Page.
 
 7 of 8:
 [Accessing Platform Features in .NET MAUI [7 of 8] | .NET MAUI for Beginners](https://learn.microsoft.com/en-us/shows/dotnet-maui-for-beginners/accessing-platform-features-in-dotnet-maui-7-of-8-dotnet-maui-for-beginners)
+
+* side note, check out Microsoft.Maui.Accesibility (research how to make accessible mobile apps)
+* see more in Microsoft.Maui.ApplicationModel (namespace with classes, methods to launch the browser) 
+* Microsoft.Maui.ApplicationModel.Communication (has functionality for contact, emails, SMS, phone dialer)
+In this next step, we're using Microsoft.Maui.Networking.Connectivity 

@@ -41,3 +41,4 @@ Also added back button to Details Page, to go back to Main Page.
 * see more in Microsoft.Maui.ApplicationModel (namespace with classes, methods to launch the browser) 
 * Microsoft.Maui.ApplicationModel.Communication (has functionality for contact, emails, SMS, phone dialer)
 In this next step, we're using Microsoft.Maui.Networking.Connectivity 
+Side note, the debugger relies on Internet connectivity it order to debug your app, so the connectivity testing was done w/out debugging turned on.  

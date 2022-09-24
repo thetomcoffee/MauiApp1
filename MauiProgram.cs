@@ -1,4 +1,5 @@
 ﻿using MauiApp1.ViewModel;
+using Microsoft.Extensions.DependencyInjection;
 
 namespace MauiApp1;
 
@@ -14,6 +15,8 @@ public static class MauiProgram
 				fonts.AddFont("OpenSans-Regular.ttf", "OpenSansRegular");
 				fonts.AddFont("OpenSans-Semibold.ttf", "OpenSansSemibold");
 			});
+
+		builder.Services.AddSingleton<IConnectivity>(Connectivity.Current);
 
 		//AddSingleton like creating a global
 		builder.Services.AddSingleton<MainPage>();

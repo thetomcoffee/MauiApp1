@@ -55,16 +55,9 @@ Recap:
 * Data Binding using MVVM
 
 More Info Links: 
-* [
-Build mobile and desktop apps with .NET MAUI
-
-    5 hr 45 min
-    Learning Path
-    7 Modules
-
-](https://learn.microsoft.com/en-us/training/paths/build-apps-with-dotnet-maui/?WT.mc_id=dotnet-29192-cxa%3FWT.mc_id%3Ddotnet-29192-cxa)
+* [Build mobile and desktop apps with .NET MAUI](https://learn.microsoft.com/en-us/training/paths/build-apps-with-dotnet-maui/?WT.mc_id=dotnet-29192-cxa%3FWT.mc_id%3Ddotnet-29192-cxa)
 * [.NET Multi-platform App UI](https://dotnet.microsoft.com/en-us/apps/maui?WT.mc_id=dotnet-29192-cxa)
-    * Definitely check out: [Fully native or go hybrid with Blazor](https://docs.microsoft.com/aspnet/core/blazor/hybrid/tutorials/maui?WT.mc_id=dotnet-35129-website)
+* Definitely check out: [Fully native or go hybrid with Blazor](https://docs.microsoft.com/aspnet/core/blazor/hybrid/tutorials/maui?WT.mc_id=dotnet-35129-website)
         summary:  Start building hybrid applications today with C# instead of JavaScript. Share your Blazor web components directly in .NET MAUI apps while having access to native device capabilities and packaging.
 
         By using .NET MAUI and Blazor together, you can reuse one set of web UI components across mobile, desktop, and web.

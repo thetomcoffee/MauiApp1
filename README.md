@@ -18,7 +18,7 @@ Updated default app to show current date and time when button is clicked.
 
 Per this tutorial:
 <br />[Build .NET MAUI UI with XAML [4 of 8] | .NET MAUI for Beginners](https://docs.microsoft.com/en-us/shows/dotnet-maui-for-beginners/build-dotnet-maui-ui-with-xaml-4-of-8-dotnet-maui-for-beginners) 
-Updating this app to be a To Do Tasks app. 
+Updating this app to be a To Do Tasks app. Also, steps 1-3 were just on overview of .NET MAUI, how to install, etc.  Step 4 we start work actually coding.  
 
 [.NET MAUI Data Binding with MVVM & XAML [5 of 8] | .NET MAUI for Beginners](https://docs.microsoft.com/en-us/shows/dotnet-maui-for-beginners/dotnet-maui-data-binding-with-mvvm-xaml-5-of-8-dotnet-maui-for-beginners)
 Setting up MVVM.  Added ViewModel folder, and MainViewModel.cs.  For convenience, MainPage.xaml matches associated view model MainViewModelcs.  
